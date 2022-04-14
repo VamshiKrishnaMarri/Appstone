@@ -1,0 +1,13 @@
+.app-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  background-size: cover;
+  margin: 0;
+  padding: 25px;
+}
+.error {
+  color: black;
+}
